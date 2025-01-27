@@ -1,0 +1,4 @@
+﻿<flash_project name="MagicSquare" version="1">
+    <project_file path="./MagicSquare.fla" filetype="fla" profile="" />
+    <project_file path="./Field.as" filetype="as" />
+</flash_project>
